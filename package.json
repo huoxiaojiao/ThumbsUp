@@ -1,0 +1,22 @@
+{
+  "name": "thumbsup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huoxiaojiao/ThumbsUp.git"
+  },
+  "author": "HXJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huoxiaojiao/ThumbsUp/issues"
+  },
+  "homepage": "https://github.com/huoxiaojiao/ThumbsUp#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
